@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+
+html {
+    margin: 0px;
+}
+
+header {
+    background-color: #232323;
+    height: auto;
+    width: auto;
+    padding: 3%;
+    
+}
+
+body header nav {
+    color: #B5B5B5;
+    font-family: 'Inter', sans-serif;
+    display: inline-flex;
+    flex-wrap: ;
+    
+    
+}
+
+body header nav div {
+    display: flex;
+}
